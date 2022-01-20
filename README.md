@@ -11,4 +11,4 @@
 MIT
 
 # 引用・謝辞
-本定款の管理は、MIT ライセンスで公開されてる[株式会社計算科学研究所の定款のレポジトリ](https://github.com/ricosjp/Articles)を参考にしています。
+本定款の管理においては、MIT ライセンスで公開されてる[株式会社計算科学研究所の定款のレポジトリ](https://github.com/ricosjp/Articles)のリソースを活用しています。
